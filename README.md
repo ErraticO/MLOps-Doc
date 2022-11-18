@@ -6,7 +6,7 @@ Doc of MLOps
 2. [butterfree](https://github.com/quintoandar/butterfree) A tool for building feature stores. Transform your raw data into beautiful features.
 3. [Featureform](https://docs.featureform.com/) is a virtual feature store. It enables data scientists to define, manage, and serve their ML model's features. 
 4. [Feathr](https://github.com/feathr-ai/feathr) is the feature store that is used in production in LinkedIn for many years and was open sourced in April 2022. 
-5. [hopsworks](https://github.com/logicalclocks/hopsworks) is a data platform for ML with a Python-centric Feature Store and MLOps capabilities.
+5. [Hopsworks](https://github.com/logicalclocks/hopsworks) is a data platform for ML with a Python-centric Feature Store and MLOps capabilities.
 
 
 ## MLops
@@ -17,14 +17,14 @@ Doc of MLOps
 5. [BentoML](https://github.com/bentoml/BentoML) makes it easy to create Machine Learning services that are ready to deploy and scale.
 6. [MLRun](https://github.com/mlrun/mlrun) is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 7. [ZenML](https://github.com/zenml-io/zenml) is here to help transition your production ML pipelines to production.
-8. [hopsworks](https://github.com/logicalclocks/hopsworks) is a data platform for ML with a Python-centric Feature Store and MLOps capabilities.
+8. [Hopsworks](https://github.com/logicalclocks/hopsworks) is a data platform for ML with a Python-centric Feature Store and MLOps capabilities.
 9. [Wallaroo Community](https://docs.wallaroo.ai/wallaroo-complete-introduction/) is aimed at those looking to speed up and simplify the deployment and management of ML models and pipelines. 
 
 
 ## MLops Blog
 1. [MLops-blog](https://neptune.ai/blog/best-mlops-tools)
 2. [Feature Stores for ML](https://www.featurestore.org/)
-3. [a guide to open source model serving](https://www.fuzzylabs.ai/guides/a-guide-to-open-source-model-serving)
+3. [A guide to open source model serving](https://www.fuzzylabs.ai/guides/a-guide-to-open-source-model-serving)
 4. [BentoML vs KServe vs Seldon](https://sourceforge.net/software/compare/BentoML-vs-KServe-vs-Seldon/)
 
 
