@@ -21,7 +21,7 @@ Doc of MLOps
 9. [Wallaroo Community](https://docs.wallaroo.ai/wallaroo-complete-introduction/) is aimed at those looking to speed up and simplify the deployment and management of ML models and pipelines. 
 
 
-## MLops Collection
+## MLops Blog
 1. [MLops-blog](https://neptune.ai/blog/best-mlops-tools)
 2. [Feature Stores for ML](https://www.featurestore.org/)
 3. [a guide to open source model serving](https://www.fuzzylabs.ai/guides/a-guide-to-open-source-model-serving)
